@@ -4,8 +4,7 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 
 import { AppWrap, MotionWrap } from '../../wrapper';
-import { urlFor, client } from '../../client';
-import { images } from '../../constants';
+import { client } from '../../client';
 
 import { FilterButtons } from './components/FilterButtons';
 import { WorkItem } from './components/WorkItems';

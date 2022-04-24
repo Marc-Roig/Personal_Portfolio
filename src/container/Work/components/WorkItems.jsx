@@ -1,13 +1,10 @@
 import './../Work.scss';
 
-import { urlFor, client } from "../../../client"
+import { urlFor } from "../../../client"
 import { AiFillEye, AiFillGithub } from 'react-icons/ai';
 import { motion } from 'framer-motion';
 
 
-const LogoItem = ({ logo, link }) => {
-    
-}
 
 export const WorkItem = ({work}) => {
 
