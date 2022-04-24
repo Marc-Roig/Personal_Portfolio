@@ -1,7 +1,6 @@
 import './Navbar.scss'
 
 import React, { useState } from 'react'
-import { images } from '../../constants'
 import {HiMenuAlt4, HiX} from 'react-icons/hi';
 import { motion } from 'framer-motion';
 
