@@ -37,14 +37,8 @@ const Footer = () => {
 
   return (
     <>
-      <h2 className="head-text">Take a coffee & chat with me</h2>
+      <h2 className="head-text">Have a coffee & chat with me</h2>
 
-      <div className="app__footer-cards">
-        <div className="app__footer-card ">
-          <img src={images.email} alt="email" />
-          <a href="mailto:marc12info@gmail.com" className="p-text">marc12info@gmail.com</a>
-        </div>
-      </div>
       {!isFormSubmitted ? (
         <div className="app__footer-form app__flex">
           <div className="app__flex">
@@ -71,6 +65,8 @@ const Footer = () => {
           </h3>
         </div>
       )}
+
+      
     </>
   );
 };
