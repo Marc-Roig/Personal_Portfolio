@@ -141,6 +141,17 @@
        line-height: 1.5; 
     }
 
+    .app__work-description {
+        /* Fix height of text */
+        line-height: 3ex;
+        height: 12ex; 
+        overflow: hidden;
+
+        /* Center text vertically */
+        display: flex;
+        // align-items: center;
+
+    }
 
     .app__work-tag {
         position: absolute;
