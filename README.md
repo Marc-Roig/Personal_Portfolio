@@ -7,6 +7,6 @@
 ## Introduction
 
 This a code repository for my personal portfolio. You can see it working on:
-https://marc-roig-portfolio.netlify
+https://marc-roig-portfolio.netlify.app
 
 This project is based of a [Javascript Mastery video](https://www.youtube.com/watch?v=3HNyXCPDQ7Q). I have had a great journey learning from his videos.
